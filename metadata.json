@@ -3,7 +3,7 @@
     "description": "An example of an interactive NFT with metadata displayed on OpenSea.",
     "image": "https://cdn.britannica.com/30/182830-050-96F2ED76/Chris-Evans-title-character-Joe-Johnston-Captain.jpg",
     "external_url": "https://example.com",
-    "animation_url": "https://6653ad43015cdfd4cb9009a8--pacwatchestest.netlify.app/",
+    "animation_url": "https://6653adc0165fa1e20ae85113--pacwatchestest.netlify.app/",
     "attributes": [
       {
         "trait_type": "Background",
